@@ -1,0 +1,12 @@
+## MacOS
+.DS_Store
+
+## Matlab auxiliary files
+*.m~
+*.asv
+readme.txt
+
+## Directories
+log/
+data/
+figures/
